@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/luka/workspace/server/build",
+  "command": "/usr/bin/c++       -O3 -std=c++14 -pedantic -Wall -Wextra -Wconversion -fmessage-length=0 -o CMakeFiles/server.dir/server.cpp.o -c /home/luka/workspace/server/src/server.cpp",
+  "file": "/home/luka/workspace/server/src/server.cpp"
+},
+{
+  "directory": "/home/luka/workspace/server/build",
+  "command": "/usr/bin/c++       -O3 -std=c++14 -pedantic -Wall -Wextra -Wconversion -fmessage-length=0 -o CMakeFiles/server.dir/clienthandle.cpp.o -c /home/luka/workspace/server/src/clienthandle.cpp",
+  "file": "/home/luka/workspace/server/src/clienthandle.cpp"
+}
+]
